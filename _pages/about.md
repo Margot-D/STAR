@@ -1,15 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "STAR-project-UiB"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Justify the paragraph? 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Over the past decades, observations and model studies have provided substantial evidence that Energetic Electron Precipitation (EEP) from space affects the chemistry and dynamics of the stratosphere. Concurrently, stratospheric variability has emerged as an important component of short-range and seasonal forecasts during winter. However, little effort to combine these two research fields has left a critical gap, limiting our ability to fully understand and predict polar climate variability. 
+
+This project has game-changing potential: it will unravel key mysteries about how EEP influences mesospheric chemistry and dynamics, the critical EEP ionization rates and the atmospheric preconditions required for significant impacts on stratospheric dynamics. It will then determine how EEP affects the occurrence and evolution of sudden stratospheric warmings–phenomena closely linked to polar tropospheric circulation.  
+
+Incorporating the knowledge gained from STAR into long-range forecast models will improve predictions of the polar winter climate on seasonal to decadal timescales.
+
+
+
+
 
 A data-driven personal website
 ======
