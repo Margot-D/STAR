@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "logo.png"
-  name             : "STAR - How is Space Transforming the polar Atmospheric Regions?"
+  name             : "How is Space Transforming the polar Atmospheric Regions?"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bridging the gap between Space Physics and Climate research communities."
   location         : "Norway"
   employer         : "University of Bergen"
   uri              : # URL
@@ -76,7 +76,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  Instagram        : "insta"
+  instagram        : "insta"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
