@@ -15,7 +15,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/ 
+
+  - title: "Research scool" 
+    url: /research-school/  
         
   - title: "News"
     url: /year-archive/
