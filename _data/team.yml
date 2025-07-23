@@ -23,23 +23,23 @@ team:
     email: 
 
 associations:
-  - name: 
+  - name: Collaborator 1
     role: 
-    image: assets/theme/images/xxx.jpg
+    image: images/bio-photo-2.jpg
     description: >
     orcid: 
     googlescholar: 
 
-  - name: 
+  - name: Collaborator 2
     role: 
-    image: assets/theme/images/xxx.jpg
+    image: images/bio-photo-2.jpg
     description: >
     orcid: 
     googlescholar: 
 
-  - name: 
+  - name: Collaborator 3
     role: 
-    image: assets/theme/images/xxx.jpg
+    image: images/bio-photo-2.jpg
     description: >
     orcid: 
     googlescholar: 
