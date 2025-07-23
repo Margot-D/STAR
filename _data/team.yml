@@ -3,9 +3,9 @@
 team:
   - name: Hilde Nesse 
     role: Project Manager, Professor # Will appear next to name
-    image: images/bio-photo.jpg # Can be external link
+    image: bio-photo.jpg # Can be external link
     description: > # Can be Markdown 
-      add description
+      She's a legend
     orcid: 0000-0002-4178-8717
     googlescholar: PLddEKv0kSQC&hl
     # twitter: twitter_username
@@ -15,7 +15,7 @@ team:
 
   - name: 
     role: 
-    image: assets/theme/images/.png # Can be external link
+    image: images/bio-photo.jpg # Can be external link
     description: >
     orcid:
     googlescholar:
