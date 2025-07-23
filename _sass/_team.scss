@@ -1,27 +1,22 @@
 // Team members
 
-body {
-  background-color: hotpink !important;
-}
-
 .team-member {
-    margin-bottom: $grid-gutter-width;
-  
-    // Image container
-    .flex-shrink-0 {
+  margin-bottom: 15px;  // replace $grid-gutter-width with a fixed pixel value
+
+  .flex-shrink-0 {
+    width: 100px;
+
+    img {
+      height: 100px;
       width: 100px;
-      
-      img {
-        height: 100px;
-        width: 100px;
-        border: 3px solid $gray-200;
-        border-radius: 100px;
-      }
-    }
-  
-    .orcid {
-      height: 16px;
-      width: 16px;
-      margin-top: -3px;
+      border: 3px solid #ddd;  // replace $gray-200 with a hex color
+      border-radius: 100px;
     }
   }
+
+  .orcid {
+    height: 16px;
+    width: 16px;
+    margin-top: -3px;
+  }
+}
