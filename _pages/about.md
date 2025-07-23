@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Justify the paragraph? 
+<div style="text-align: justify"> your-text-here 
 
 Over the past decades, observations and model studies have provided substantial evidence that Energetic Electron Precipitation (EEP) from space affects the chemistry and dynamics of the stratosphere. Concurrently, stratospheric variability has emerged as an important component of short-range and seasonal forecasts during winter. However, little effort to combine these two research fields has left a critical gap, limiting our ability to fully understand and predict polar climate variability. 
 
@@ -15,9 +15,7 @@ This project has game-changing potential: it will unravel key mysteries about ho
 
 Incorporating the knowledge gained from STAR into long-range forecast models will improve predictions of the polar winter climate on seasonal to decadal timescales.
 
-
-
-
+</div>
 
 A data-driven personal website
 ======
