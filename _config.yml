@@ -15,7 +15,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://margot-d.github.io/STAR #https://academicpages.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+#repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -59,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : Username
   lastfm           : # Username
   linkedin         : "linkedin username"
   mastodon         : # URL
@@ -76,7 +76,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  instagram        : "insta"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
