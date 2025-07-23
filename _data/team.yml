@@ -3,7 +3,7 @@
 team:
   - name: Hilde Nesse 
     role: Project Manager, Professor # Will appear next to name
-    image: assets/theme/images/xxx.jpg # Can be external link
+    image: images/bio-photo.jpg # Can be external link
     description: > # Can be Markdown 
       add description
     orcid: 0000-0002-4178-8717
