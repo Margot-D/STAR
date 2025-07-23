@@ -21,7 +21,9 @@ Work packages
 ------
 
 WP1
+
 WP2
+
 WP3
 
 <!--
