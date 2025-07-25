@@ -1,28 +1,15 @@
-<p>Members loaded: {{ site.data.team.main | size }}</p>
-
-
 main:
   - name: Hilde Nesse
     role: Project Manager
     title: Professor at UiB
-    image: images/bio-photo.jpg
-    description: The Legend
-
-  - name: Margot D.
-    role: Senior Researcher
-    title: Postdoc at UiB
-    image: /images/margot.jpg
-    description: Investigates energetic particle precipitation and chaos in space.
+    image: /images/bio-photo.jpg
+    description: >
+      Hilde leads the STAR project and is a renowned expert in atmospheric dynamics.
 
 collaborators:
-  - name: John Doe
+  - name: Ingrid Example
     role: Collaborator
-    title: Researcher at Somewhere Else
-    image: /images/john.jpg
-    description: Works on magnetosphere-ionosphere coupling.
-
-  - name: Ingrid Chaos
-    role: Collaborator
-    title: PhD Candidate at UiB
+    title: PhD candidate at UiB
     image: /images/ingrid.jpg
-    description: Hates seagulls. Loves science.
+    description: >
+      Works on modeling polar stratospheric response to EEP.
