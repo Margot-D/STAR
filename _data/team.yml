@@ -1,46 +1,25 @@
-# Project team members listed below will appear on the /team page
+main:
+  - name: Hilde Nesse
+    role: Project Manager
+    title: Professor at UiB
+    image: images/bio-photo.jpg
+    description: The Legend
 
-team:
-  - name: Hilde Nesse 
-    role: Project Manager, Professor # Will appear next to name
-    image: images/bio-photo.jpg # Can be external link
-    description: > # Can be Markdown 
-      The Legend 
-    orcid: 0000-0002-4178-8717
-    googlescholar: PLddEKv0kSQC&hl
-    # twitter: twitter_username
-    mastodon: 
-    github: 
-    email: hilde.nesse@uib.no
+  - name: Margot D.
+    role: Senior Researcher
+    title: Postdoc at UiB
+    image: /images/margot.jpg
+    description: Investigates energetic particle precipitation and chaos in space.
 
-  - name: 
-    role: 
-    image: assets/theme/images/.png # Can be external link
-    description: >
-    orcid:
-    googlescholar:
-    github: 
-    email: 
+collaborators:
+  - name: John Doe
+    role: Collaborator
+    title: Researcher at Somewhere Else
+    image: /images/john.jpg
+    description: Works on magnetosphere-ionosphere coupling.
 
-associations:
-  - name: Collaborator 1
-    role: 
-    image: images/bio-photo-2.jpg
-    description: >
-    orcid: 
-    googlescholar: 
-
-  - name: Collaborator 2
-    role: 
-    image: images/bio-photo-2.jpg
-    description: >
-    orcid: 
-    googlescholar: 
-
-  - name: Collaborator 3
-    role: 
-    image: images/bio-photo-2.jpg
-    description: >
-    orcid: 
-    googlescholar: 
-  
+  - name: Ingrid Chaos
+    role: Collaborator
+    title: PhD Candidate at UiB
+    image: /images/ingrid.jpg
+    description: Hates seagulls. Loves science.
