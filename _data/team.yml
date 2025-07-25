@@ -2,7 +2,7 @@ main:
   - name: Hilde Nesse
     role: Project Manager
     title: Professor at UiB
-    image: /images/bio-photo.jpg
+    image:
     description: >
       Hilde leads the STAR project and is a renowned expert in atmospheric dynamics.
 
@@ -18,12 +18,12 @@ collaborators:
   - name: Ingrid Example
     role: Collaborator
     title: PhD candidate at UiB
-    image: /images/ingrid.jpg
+    image:
     description: >
       Works on modeling polar stratospheric response to EEP.
 
   - name: Collaborator 2
     role: 
-    image: images/bio-photo-2.jpg
+    image:
     description: >
       blabubf
