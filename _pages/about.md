@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="text-align: center;">Investigating the influence of space on polar atmospheric dynamics</h1>
-
+<h1 style="text-align: center;">Investigating the influence of space</h1>
+<h1 style="text-align: center;">on polar atmospheric dynamics</h1>
 
 <p style="text-align: justify"> 
 
