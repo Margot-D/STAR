@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "STAR: How is Space Transforming the polar Atmospheric Regions?"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1 style="text-align: center;">Investigating the influence of space on polar atmospheric dynamics</h1>
+
 
 <p style="text-align: justify"> 
 
