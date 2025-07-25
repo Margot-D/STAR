@@ -2,7 +2,7 @@ main:
   - name: Hilde Nesse
     role: Project Manager
     title: Professor at UiB
-    image:
+    image: images/logo.png
     description: >
       Hilde leads the STAR project and is a renowned expert in atmospheric dynamics.
 
