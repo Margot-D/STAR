@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'First Blog Post'
 date: 2025-12-01
 permalink: /posts/2199/01/future-post/
 tags:
@@ -8,4 +8,6 @@ tags:
   - category2
 ---
 
-<!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This is a sample blog post.
+
+<!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. -->
