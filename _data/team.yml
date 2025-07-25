@@ -2,21 +2,21 @@ main:
   - name: Hilde Nesse
     role: Project Manager
     title: Professor at University of Bergen, Norway.
-    image: /images/bio-photo.png
+    image: /images/bio-photo.jpg
     description: >
       Hilde is a legend.
 
   - name: PD1, PD2
     role: Postdoctoral Researchers
     title:
-    image: /images/bio-photo.png
+    image: /images/bio-photo.jpg
     description: >
       Blabljabla.
 
   - name: Thomas Toniazzo 
     role: Senior Researcher 
     title: Senior research scientist at NORCE Norwegian Research Centre in Bergen, Norway.
-    image: /images/bio-photo.png
+    image: /images/bio-photo.jpg
     description: >
       Blabla.
 
@@ -25,20 +25,20 @@ collaborators:
   - name: Daniel Marsh
     role: Collaborator
     title: Researcher at University of Leeds
-    image: /images/bio-photo-2.png
+    image: /images/bio-photo-2.jpg
     description: >
       Expert in the chemistry and dynamics of the stratosphere and mesosphere, their response to climate change, and their influence on tropospheric climate.
 
   - name: Bernd Funke
     role: Collaborator
     title: Senior researcher at the Instituto de Astrofísica de Andalucía, Spain
-    image: /images/bio-photo-2.png
+    image: /images/bio-photo-2.jpg
     description: >
       Expert in chemistry and dynamics of the stratosphere and mesosphere.
 
   - name: 
     role: Collaborator
     title: Researcher at Hebrew University of Jerusalem.
-    image: /images/bio-photo-2.png
+    image: /images/bio-photo-2.jpg
     description: >
       Expert in middle atmosphere dynamics and stratosphere-troposphere coupling.

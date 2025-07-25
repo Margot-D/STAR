@@ -26,7 +26,7 @@ permalink: /team/
 
 {% for member in site.data.team.collaborators %}
   <div style="margin-bottom: 2em; display: flex; align-items: center;">
-    <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 1em;">
+    <img src="{{ member.image | absolute_url }}" alt="{{ member.name }}" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 1em;">
     <div>
       <h3 style="margin: 0;">{{ member.name }}</h3>
       <h5 style="margin: 0;"><strong>{{ member.role }}</strong> — {{ member.title }}</h5>
