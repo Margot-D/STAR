@@ -10,7 +10,7 @@ permalink: /team/
 
 {% for member in site.data.team.main %}
   <div style="margin-bottom: 2em; display: flex; align-items: center;">
-    <img src="{{ member.image }}" alt="{{ member.name }}" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 1em;">
+    <img src="{{ member.image | absolute_url }}" alt="{{ member.name }}" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 1em;">
     
     <div>
       <h3 style="margin: 0;">{{ member.name }}</h3>
