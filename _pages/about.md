@@ -14,7 +14,7 @@ redirect_from:
 
 <p style="text-align: justify"> 
 
-Oxver the past decades, observations and model studies have provided substantial evidence that Energetic Electron Precipitation (EEP) from space affects the chemistry and dynamics of the stratosphere. Concurrently, stratospheric variability has emerged as an important component of short-range and seasonal forecasts during winter. However, little effort to combine these two research fields has left a critical gap, limiting our ability to fully understand and predict polar climate variability. 
+Over the past decades, observations and model studies have provided substantial evidence that Energetic Electron Precipitation (EEP) from space affects the chemistry and dynamics of the stratosphere. Concurrently, stratospheric variability has emerged as an important component of short-range and seasonal forecasts during winter. However, little effort to combine these two research fields has left a critical gap, limiting our ability to fully understand and predict polar climate variability. 
 
 This project has game-changing potential: it will unravel key mysteries about how EEP influences mesospheric chemistry and dynamics, the critical EEP ionization rates and the atmospheric preconditions required for significant impacts on stratospheric dynamics. It will then determine how EEP affects the occurrence and evolution of sudden stratospheric warmings–phenomena closely linked to polar tropospheric circulation.  
 

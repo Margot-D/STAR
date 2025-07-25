@@ -6,6 +6,14 @@ main:
     description: >
       Hilde leads the STAR project and is a renowned expert in atmospheric dynamics.
 
+  - name:
+    role:
+    title:
+    image:
+    description: >
+      Blabla
+
+
 collaborators:
   - name: Ingrid Example
     role: Collaborator
@@ -13,3 +21,9 @@ collaborators:
     image: /images/ingrid.jpg
     description: >
       Works on modeling polar stratospheric response to EEP.
+
+  - name: Collaborator 2
+    role: 
+    image: images/bio-photo-2.jpg
+    description: >
+      blabubf
